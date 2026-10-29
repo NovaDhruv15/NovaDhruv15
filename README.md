@@ -1,16 +1,3 @@
-<!-- =====================================================================
-  Profile README for NovaDhruv15 (Dhruv Rawat)
-  Widgets marked "needs setup" depend on the workflow in
-  .github/workflows/arcade.yml having run at least once.
-====================================================================== -->
-
-<div align="center">
-
-   <img width="100%" alt="Dhruv Rawat banner" src="https://raw.githubusercontent.com/NovaDhruv15/NovaDhruv15/main/banner.svg" />
-<a href="https://github.com/NovaDhruv15"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Computer+Science+student+%40+GL+Bajaj%2C+Mathura;Learning+AI%2FML+and+Generative+AI;Building+full-stack+and+AI-assisted+projects;Building+useful+software%2C+in+public" alt="Typing animation" /></a>
-
-<br/>
-
 <div align="center">
 
 <img width="100%" alt="Dhruv Rawat banner" src="https://raw.githubusercontent.com/NovaDhruv15/NovaDhruv15/main/banner.svg" />
@@ -51,6 +38,21 @@
 
 ---
 
+## 👨‍💻 About me
+
+<div align="center">
+<img width="100%" alt="Dhruv Rawat profile card" src="https://raw.githubusercontent.com/NovaDhruv15/NovaDhruv15/main/profile-card.svg" />
+</div>
+
+### Summary
+
+I'm a B.Tech Computer Science Engineering student focused on **AI/ML and software development**. I learn by building: full-stack web apps and AI-assisted tools that make practical work easier. I'm especially interested in **Generative AI** (LLMs, transformer fundamentals, retrieval-augmented generation), backend engineering and full-stack development, and I want to build reliable software that people can actually use.
+
+I'm looking for internship and placement opportunities, and I'm open to collaborating on AI/ML projects, full-stack applications, developer tools and open source.
+
+> Building useful software and sharing the work in public.
+
+---
 ## 👨‍💻 About me
 
 <div align="center">
