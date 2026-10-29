@@ -19,7 +19,6 @@
 
 ---
 
-## 👋 About me
 ## 👨‍💻 About me
 
 <div align="center">
