@@ -11,9 +11,61 @@
 
 <br/>
 
-<a href="https://github.com/NovaDhruv15"><img src="https://img.shields.io/badge/GitHub-NovaDhruv15-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/dhruv-rawat-82617b35a/"><img src="https://img.shields.io/badge/LinkedIn-Dhruv%20Rawat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<img src="https://komarev.com/ghpvc/?username=NovaDhruv15&label=Profile%20views&color=1f6feb&style=for-the-badge" alt="Profile views" />
+<div align="center">
+
+<img width="100%" alt="Dhruv Rawat banner" src="https://raw.githubusercontent.com/NovaDhruv15/NovaDhruv15/main/banner.svg" />
+
+<a href="https://github.com/NovaDhruv15"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Learning+AI%2FML+and+Generative+AI;Building+full-stack+and+AI-assisted+projects;Building+useful+software%2C+in+public" alt="Typing animation" /></a>
+
+</div>
+
+## Hey, I'm Dhruv Rawat 👋
+
+> I'm a Computer Science student building software at the intersection of **AI/ML and full-stack development**.
+> I turn ideas into practical tools and web apps, and I learn by shipping them.
+
+<div align="center">
+
+<a href="https://github.com/NovaDhruv15"><img src="https://img.shields.io/badge/GitHub-NovaDhruv15-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/dhruv-rawat-82617b35a/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
+<br/>
+
+<img src="https://img.shields.io/github/followers/NovaDhruv15?label=Followers&style=flat-square&labelColor=555555&color=00bfff" alt="Followers" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FNovaDhruv15&query=%24.public_repos&label=Repositories&logo=github&style=flat-square&labelColor=555555&color=00bfff" alt="Repositories" />
+<img src="https://komarev.com/ghpvc/?username=NovaDhruv15&label=Profile%20views&color=00bfff&style=flat-square" alt="Profile views" />
+
+</div>
+
+<!-- Add this only after you set up WakaTime and have real data:
+<img src="https://img.shields.io/badge/dynamic/json?url=YOUR_WAKATIME_SHIELDS_URL&label=wakatime&style=flat-square&labelColor=555555&color=0f7ec2" alt="WakaTime" />
+-->
+
+### What I build
+
+<div align="center">
+
+`AI-Assisted Tools` · `Full-Stack Web Apps` · `Learning Platforms` · `Backend & APIs` · `Practical Automation`
+
+</div>
+
+---
+
+## 👨‍💻 About me
+
+<div align="center">
+<img width="100%" alt="Dhruv Rawat profile card" src="https://raw.githubusercontent.com/NovaDhruv15/NovaDhruv15/main/profile-card.svg" />
+</div>
+
+### Summary
+
+I'm a B.Tech Computer Science Engineering student focused on **AI/ML and software development**. I learn by building: full-stack web apps and AI-assisted tools that make practical work easier. I'm especially interested in **Generative AI** (LLMs, transformer fundamentals, retrieval-augmented generation), backend engineering and full-stack development, and I want to build reliable software that people can actually use.
+
+I'm looking for internship and placement opportunities, and I'm open to collaborating on AI/ML projects, full-stack applications, developer tools and open source.
+
+> Building useful software and sharing the work in public.
+
+---
 
 </div>
 
