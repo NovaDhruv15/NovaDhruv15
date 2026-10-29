@@ -53,41 +53,6 @@ I'm looking for internship and placement opportunities, and I'm open to collabor
 > Building useful software and sharing the work in public.
 
 ---
-## 👨‍💻 About me
-
-<div align="center">
-<img width="100%" alt="Dhruv Rawat profile card" src="https://raw.githubusercontent.com/NovaDhruv15/NovaDhruv15/main/profile-card.svg" />
-</div>
-
-### Summary
-
-I'm a B.Tech Computer Science Engineering student focused on **AI/ML and software development**. I learn by building: full-stack web apps and AI-assisted tools that make practical work easier. I'm especially interested in **Generative AI** (LLMs, transformer fundamentals, retrieval-augmented generation), backend engineering and full-stack development, and I want to build reliable software that people can actually use.
-
-I'm looking for internship and placement opportunities, and I'm open to collaborating on AI/ML projects, full-stack applications, developer tools and open source.
-
-> Building useful software and sharing the work in public.
-
----
-
-</div>
-
----
-
-## 👨‍💻 About me
-
-<div align="center">
-<img width="100%" alt="Dhruv Rawat profile card" src="https://raw.githubusercontent.com/NovaDhruv15/NovaDhruv15/main/profile-card.svg" />
-</div>
-
-### Summary
-
-I'm a B.Tech Computer Science Engineering student focused on **AI/ML and software development**. I learn by building: full-stack web apps and AI-assisted tools that make practical work easier. I'm especially interested in **Generative AI** (LLMs, transformer fundamentals, retrieval-augmented generation), backend engineering and full-stack development, and I want to build reliable software that people can actually use.
-
-I'm looking for internship and placement opportunities, and I'm open to collaborating on AI/ML projects, full-stack applications, developer tools and open source.
-
-> Building useful software and sharing the work in public.
-
-
 ## 🧰 Tech stack
 
 Only technologies that appear in my public repositories are listed as "used". Everything else is under "learning".
