@@ -49,8 +49,7 @@ Only technologies that appear in my public repositories are listed as "used". Ev
     <td><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Node.js, Express, MongoDB" /></td>
   </tr>
   <tr>
-    <td align="center"><b>Notebooks</b></td>
-    <td><img src="https://skillicons.dev/icons?i=jupyter&theme=dark" alt="Jupyter" /></td>
+     <td><img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" /></td>
   </tr>
   <tr>
     <td align="center"><b>Tools</b></td>
