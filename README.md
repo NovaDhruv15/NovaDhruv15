@@ -1,115 +1,182 @@
+<!-- =====================================================================
+  Profile README for NovaDhruv15 (Dhruv Rawat)
+  Widgets marked "needs setup" depend on the workflow in
+  .github/workflows/arcade.yml having run at least once.
+====================================================================== -->
+
 <div align="center">
 
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · novadhruv15</sub></p>
-<h1>CodewithDhruv</h1>
-<h2>Frontend or full-stack engineer</h2>
-<p>Building useful software and sharing the work in public.</p>
-<p><strong>● Building and sharing work in public</strong></p>
+<img width="100%" alt="Dhruv Rawat banner" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=230&section=header&text=Hi%2C%20I'm%20Dhruv%20Rawat&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=B.Tech%20CSE%20Student%20%C2%B7%20Aspiring%20AI%2FML%20%26%20Software%20Engineer&descSize=18&descAlignY=62" />
 
-<p><a href="https://github.com/novadhruv15">GitHub</a></p>
-</td>
-<td width="36%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/184974534?v=4" width="180" alt="CodewithDhruv GitHub avatar" />
-</td>
-</tr>
-</table>
+<a href="https://github.com/NovaDhruv15"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Computer+Science+student+%40+GL+Bajaj%2C+Mathura;Learning+AI%2FML+and+Generative+AI;Building+full-stack+and+AI-assisted+projects;Building+useful+software%2C+in+public" alt="Typing animation" /></a>
+
+<br/>
+
+<a href="https://github.com/NovaDhruv15"><img src="https://img.shields.io/badge/GitHub-NovaDhruv15-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/dhruv-rawat-82617b35a/"><img src="https://img.shields.io/badge/LinkedIn-Dhruv%20Rawat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<img src="https://komarev.com/ghpvc/?username=NovaDhruv15&label=Profile%20views&color=1f6feb&style=for-the-badge" alt="Profile views" />
+
 </div>
 
-<h2>What teams can evaluate quickly</h2>
+---
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Jupyter Notebook · TypeScript · HTML</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>9 repositories · 0 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>202 contributions · 37 active days</p></td>
-</tr>
+## 👋 About me
+
+I'm a B.Tech Computer Science Engineering student at **GL Bajaj Group of Institutions, Mathura** (expected graduation **2027**). I'm focused on **AI/ML engineering and software development**, and I learn by building: full-stack web apps, and AI-assisted tools that make practical work easier.
+
+- 🎯 Interests: AI/ML, Generative AI (LLMs, transformer fundamentals, retrieval-augmented generation), backend and full-stack development
+- 🔨 Currently building projects that combine a clean UI with a useful backend
+- 🤝 Happy to collaborate on AI/ML projects, full-stack apps, developer tools and open source
+
+> Building useful software and sharing the work in public.
+
+---
+
+## 🧰 Tech stack
+
+Only technologies that appear in my public repositories are listed as "used". Everything else is under "learning".
+
+<table align="center">
+  <tr>
+    <td align="center" width="170"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=java,python,js,ts&theme=dark" alt="Java, Python, JavaScript, TypeScript" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite&theme=dark" alt="HTML, CSS, React, Tailwind, Vite" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend &amp; Data</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Node.js, Express, MongoDB" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Notebooks</b></td>
+    <td><img src="https://skillicons.dev/icons?i=jupyter&theme=dark" alt="Jupyter" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub, VS Code" /></td>
+  </tr>
 </table>
 
-<p><sub>Building useful software and sharing the work in public.</sub></p>
+**Learning:** SQL / MySQL · machine learning · LLMs and transformer fundamentals · retrieval-augmented generation (RAG)
 
-<h2>Proof at a glance</h2>
+---
 
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>9</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>202</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>1</strong><br /><sub>Followers</sub></td>
-</tr>
+## 🚀 Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/NovaDhruv15/A.I._Codebase_Mentor">A.I._Codebase_Mentor</a></h3>
+      <b>Python</b><br/><br/>
+      An AI-assisted tool for understanding codebases. The repository is organised into <code>indexing</code>, <code>retrieval</code>, <code>llm</code> and <code>classifier</code> modules, with a Python API (<code>api.py</code>), a repo downloader and a <code>frontend</code>.<br/><br/>
+      <sub>Status: early-stage, no README or live demo yet.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/NovaDhruv15/Stem-AI-Platform">Stem-AI-Platform (STEM-Spark)</a></h3>
+      <b>TypeScript · React · Tailwind CSS · Vite</b><br/><br/>
+      A gamified, offline-first learning platform with separate student, teacher, guardian and admin panels. Uses local storage for offline persistence.<br/><br/>
+      <sub>Status: working demo build with role-based demo logins. Some features in its README are listed as roadmap items.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/NovaDhruv15/ExpenseTracker-main">ExpenseTracker-main</a></h3>
+      <b>MERN: MongoDB · Express · React · Node.js</b><br/><br/>
+      A full-stack expense tracker with JWT authentication, income and expense tracking, avatar upload and a responsive dashboard.
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/NovaDhruv15/Hostel-Management">Hostel-Management</a></h3>
+      <b>Java</b><br/><br/>
+      A Java hostel management project.<br/><br/>
+      <sub>See the repository for details.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/NovaDhruv15/Hospital-website">Hospital-website</a></h3>
+      <b>Jupyter Notebook</b><br/><br/>
+      A hospital website project.<br/><br/>
+      <sub>See the repository for details.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/NovaDhruv15?tab=repositories">More repositories →</a></h3>
+      Including a <a href="https://github.com/NovaDhruv15/LeetCode">LeetCode</a> practice repo in Python.
+    </td>
+  </tr>
 </table>
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=novadhruv15&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F184974534%3Fv%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=novadhruv15&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F184974534%3Fv%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="CodewithDhruv GitHub proof metrics" />
-</picture>
-</p>
+---
 
-<h2>Selected work</h2>
+## 📊 GitHub stats
 
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=novadhruv15&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F184974534%3Fv%3D4&repos=novadhruv15%2FExpenseTracker-main%2Cnovadhruv15%2FLeetCode%2Cnovadhruv15%2FA.I._Codebase_Mentor%2Cnovadhruv15%2FStem-AI-Platform&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=novadhruv15&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F184974534%3Fv%3D4&repos=novadhruv15%2FExpenseTracker-main%2Cnovadhruv15%2FLeetCode%2Cnovadhruv15%2FA.I._Codebase_Mentor%2Cnovadhruv15%2FStem-AI-Platform&v=recruiter-projects-1&mode=dark" width="100%" alt="CodewithDhruv selected projects" />
-</picture>
-</td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/NovaDhruv15/ExpenseTracker-main">ExpenseTracker-main</a></h3>
-<p>A selected public project.</p>
-<p><sub>JavaScript · ⭐ 0 · 🍴 0</sub></p>
-<p><a href="https://github.com/NovaDhruv15/ExpenseTracker-main">Read the repository →</a></p>
-</td>
-</tr>
-</table>
+<div align="center">
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/NovaDhruv15/LeetCode">LeetCode</a></h3><p>A selected public project.</p><p><sub>Python · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/NovaDhruv15/A.I._Codebase_Mentor">A.I._Codebase_Mentor</a></h3><p>A selected public project.</p><p><sub>Python · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/NovaDhruv15/Stem-AI-Platform">Stem-AI-Platform</a></h3><p>A selected public project.</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
-</tr>
-</table>
+<img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=NovaDhruv15&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" />
+<img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NovaDhruv15&layout=compact&theme=tokyonight&hide_border=true" />
 
-<h2>Technical toolkit</h2>
+<img alt="Contribution streak" src="https://streak-stats.demolab.com?user=NovaDhruv15&theme=tokyonight&hide_border=true" />
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=novadhruv15&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F184974534%3Fv%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=novadhruv15&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F184974534%3Fv%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="CodewithDhruv technology stack" />
-</picture>
-</p>
+<img alt="Contribution activity graph" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NovaDhruv15&theme=react-dark&hide_border=true&area=true" />
 
-<table width="100%">
-<tr>
-<td width="20%" align="center"><strong>Jupyter Notebook</strong><br /><sub>51% of public code</sub></td>
-<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>31% of public code</sub></td>
-<td width="20%" align="center"><strong>HTML</strong><br /><sub>6% of public code</sub></td>
-<td width="20%" align="center"><strong>Python</strong><br /><sub>4% of public code</sub></td>
-<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>3% of public code</sub></td>
-</tr>
-</table>
+</div>
 
-<h2>Consistency signal</h2>
+<sub>All numbers above are computed live from my GitHub account by third-party services. If a card fails to load, the service is rate-limited or down.</sub>
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=novadhruv15&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F184974534%3Fv%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=novadhruv15&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F184974534%3Fv%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="CodewithDhruv contribution activity" />
-</picture>
-</p>
+---
 
-<hr />
+## 🕹️ Contribution arcade
 
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/novadhruv15">GitHub</a></td>
-</tr>
-</table>
+Animated SVGs generated daily from **my real contribution graph** by a GitHub Action. They are **animations, not playable games**. *Needs setup: appears after the workflow's first run.*
 
-<p align="center"><sub>CodewithDhruv · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<div align="center">
+
+**Pac-Man**
+
+<img alt="Pac-Man contribution graph" width="100%" src="https://raw.githubusercontent.com/NovaDhruv15/NovaDhruv15/output/pacman-contribution-graph-dark.svg" />
+
+**Breakout**
+
+<img alt="Breakout contribution graph" width="100%" src="https://raw.githubusercontent.com/NovaDhruv15/NovaDhruv15/output/breakout-contribution-graph-dark.svg" />
+
+**Galaga (space shooter)**
+
+<img alt="Galaga contribution graph" width="100%" src="https://raw.githubusercontent.com/NovaDhruv15/NovaDhruv15/output/galaga-contribution-graph-dark.svg" />
+
+**Minesweeper**
+
+<img alt="Minesweeper contribution graph" width="100%" src="https://raw.githubusercontent.com/NovaDhruv15/NovaDhruv15/output/minesweeper-contribution-graph-dark.svg" />
+
+</div>
+
+<sub>Generated with <a href="https://github.com/abozanona/pacman-contribution-graph">abozanona/pacman-contribution-graph</a>. 3D view: <a href="https://skyline.github.com/NovaDhruv15/2026">GitHub Skyline</a>. Want to actually play? <a href="https://tetris.com/play-tetris">Tetris (external site)</a>.</sub>
+
+---
+
+## 🛠️ How I work
+
+1. **Understand** the problem and who it is for
+2. **Plan** a small, working first version
+3. **Build** it and keep the code readable
+4. **Test** it and fix what breaks
+5. **Improve** it based on what I learn
+
+---
+
+## 🤝 Let's build useful software
+
+I'm looking for internship and placement opportunities in **AI/ML and software engineering**, and I'm open to collaborating on AI/ML projects, full-stack applications, developer tools and open source.
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/dhruv-rawat-82617b35a/"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/NovaDhruv15"><img src="https://img.shields.io/badge/Follow%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" />
+
+</div>
+
+<!-- Optional, needs your own WakaTime account (do not enable without data):
+<img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true" />
+-->
