@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img width="100%" alt="Dhruv Rawat banner" src="https://raw.githubusercontent.com/NovaDhruv15/NovaDhruv15/main/banner.svg" />type=rect&color=gradient&customColorList=12,20,24&height=230&section=header&text=Hi%2C%20I'm%20Dhruv%20Rawat&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=B.Tech%20CSE%20Student%20%C2%B7%20Aspiring%20AI%2FML%20%26%20Software%20Engineer&descSize=18&descAlignY=62" />
+<img width="100%" alt="Dhruv Rawat banner" src="https://raw.githubusercontent.com/NovaDhruv15/NovaDhruv15/main/banner.svg" 
 
 <a href="https://github.com/NovaDhruv15"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Computer+Science+student+%40+GL+Bajaj%2C+Mathura;Learning+AI%2FML+and+Generative+AI;Building+full-stack+and+AI-assisted+projects;Building+useful+software%2C+in+public" alt="Typing animation" /></a>
 
